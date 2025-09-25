@@ -43,14 +43,15 @@ Step	Description
 
 ---
 
-Folder Structure
-project_root/
-├── raw_data/              # Raw downloaded CSVs
-├── output/                # Cleaned CSVs
-├── features_output/       # Feature-engineered CSVs
-├── models_output/         # Trained Prophet models
-├── forecast_output/       # Forecasted CSVs
-└── anomalies_output/      # Anomaly-detected CSVs
+Folder Structure:
+
+---
+
+
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/7e9cef04-b1ed-4be7-9f8f-11ecebcf3805" />
+
+---
+
 
 Libraries Required
 
